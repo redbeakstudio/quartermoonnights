@@ -1,8 +1,8 @@
 ---
-prompt: "Honeysuckle"
-phase: "Cancer"
-start_date: "6/21/2020"
-end_date: "7/22/2020"
+prompt: "Saffron"
+phase: "Leo"
+start_date: "7/23/2020"
+end_date: "8/22/2020"
 calendar_system: "Western Zodiac"
 location: "Los Angeles (Tongva Land), USA, Turtle Island"
 lat_lon: "34.0522° N, 118.2437° W"
@@ -24,33 +24,32 @@ rating: "PG-13"
 version: "v0.0.1"
 github: https://github.com/redbeakstudio/quartermoonnights
 ---
-# Quarter Moon Nights: June 2020
+# Quarter Moon Nights: Au 2020
 
 ## Dates
 | Name             | Phase           |  Date         | Calendar System |
 | :----------      | :-------------: | -----------:  | --------------: |
-| Cancer (start)   | House           | 6/21/2020     | Western Zodiac  |
-| June             | Month           | 6/21/2020     | Gregorian       |
-| Summer           | Summer Solstice | 6/21/2020     | Solar           |
-| Moon Phase       | Waxing Moon     | 6/28/2020     | Lunar           |
-| Moon Phase       | Full Moon       | 7/4/2020      | Lunar           |
-| Moon of Horses   | Full Moon       | 7/5/2020      | Celtic (*)      |
-| Moon Phase       | Waning Moon     | 7/12/2020     | Lunar           |
-| Moon Phase       | New Moon        | 7/20/2020     | Lunar           |
 | Leo (start)      | House           | 7/23/2020     | Western Zodiac  |
+| July             | Month           | 7/27/2020     | Gregorian       |
+| Moon Phase       | Waxing Moon     | 7/27/2020     | Lunar           |
+| Moon Phase       | Full Moon       | 8/3/2020      | Lunar           |
+| Moon of Claiming | Full Moon       | 8/3/2020      | Celtic (*)      |
+| Moon Phase       | Waning Moon     | 8/11/2020     | Lunar           |
+| Moon Phase       | New Moon        | 8/18/2020     | Lunar           |
+| Virgo (end)      | House           | 8/23/2020     | Western Zodiac  |
 
-* Personal connection
+*Personal connection
 
 ## Prompt
-**Honeysuckle**
+**Saffron**
 
 ## Phase
-**Cancer**
+**Leo**
 
 ## Element
-**Water**
+**Fire**
 
 ## Project
-**Honeysuckle Flower Dream for the Couch**
+**Saffron Dance Party**
 
 * [Brief](Brief.md)
