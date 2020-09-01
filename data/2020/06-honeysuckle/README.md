@@ -14,13 +14,23 @@ timezone: GMT-7
 # Quarter Moon Nights: June 2020
 
 ## Dates
-
-"Summer",	    "Summer Solstice",	"6/21/2020"
-"Moon Phase",	"Waxing Moon",	    "6/28/2020"
-"Moon Phase",	"Full Moon",	      "7/4/2020"
-"Buck Moon",	"Full Moon",	      "7/5/2020"
-"Moon Phase",	"Waning Moon",	    "7/12/2020"
-"Moon Phase",	"New Moon",	        "7/20/2020"
+"Summer",	    "Summer Solstice",	"6/21/2020"\n
+"Moon Phase",	"Waxing Moon",	    "6/28/2020"\n
+"Moon Phase",	"Full Moon",	      "7/4/2020"\n
+"Buck Moon",	"Full Moon",	      "7/5/2020"\n
+"Moon Phase",	"Waning Moon",	    "7/12/2020"\n
+"Moon Phase",	"New Moon",	        "7/20/2020"\n
 
 ## Prompt
 **Honeysuckle**
+
+## Phase
+**Virgo**
+
+## Element
+**Earth**
+
+## Project
+**Dust Disco**
+
+* [Brief](Brief.md)
