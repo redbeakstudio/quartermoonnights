@@ -1,7 +1,10 @@
 # Quarter Moon Nights
 Multisensory art club & social VR explorations.
 
-This repository contains a template for art club projects.
+This repository contains:
+* Information about our multisensory XR art club projects.
+* A template for your own projects
+
 The [templates](data/2020/00-template-en-us) explain what we are doing.
 
 * [Prompts](data/2020/Prompts.md)
