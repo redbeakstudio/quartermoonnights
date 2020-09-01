@@ -24,18 +24,19 @@ rating: "PG-13"
 version: "v0.0.1"
 github: https://github.com/redbeakstudio/quartermoonnights
 ---
-# Quarter Moon Nights: Month 2020
+# Quarter Moon Nights: Month Name 2020
 
 ## Dates
 | Name             | Phase           |  Date         | Calendar System |
 | :----------      | :-------------: | -----------:  | --------------: |
-| June             | Month           | 6/21/2020     | Gregorian       |
-| Summer           | Summer Solstice | 6/21/2020     | Solar           |
+| Month Name       | Month           | 6/21/2020     | Gregorian       |
 | Moon Phase       | Waxing Moon     | 6/28/2020     | Lunar           |
 | Moon Phase       | Full Moon       | 7/4/2020      | Lunar           |
-| Moon of Horses   | Full Moon       | 7/5/2020      | Celtic          |
+| Moon of Horses   | Full Moon       | 7/5/2020      | Celtic (*)      |
 | Moon Phase       | Waning Moon     | 7/12/2020     | Lunar           |
 | Moon Phase       | New Moon        | 7/20/2020     | Lunar           |
+
+* Personal connection (example)
 
 ## Prompt
 **Prompt Name**
