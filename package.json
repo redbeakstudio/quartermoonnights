@@ -1,0 +1,23 @@
+{
+  "name": "quartermoon",
+  "version": "0.0.1",
+  "description": "Website for Quarter Moon Nights",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redbeakstudio/quartermoonnights.git"
+  },
+  "keywords": [
+    "multisensory",
+    "art-making"
+  ],
+  "author": "Redbeak Studio",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/redbeakstudio/quartermoonnights/issues"
+  },
+  "homepage": "https://github.com/redbeakstudio/quartermoonnights#readme"
+}
