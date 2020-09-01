@@ -25,7 +25,6 @@ version: "v0.0.1"
 github: https://github.com/redbeakstudio/quartermoonnights
 ---
 # Quarter Moon Nights: June 2020
-This is a template for communicating a multi-sensory art club project for participatings in Quarter Moon Nights.
 
 ## Dates
 | Name             | Phase           |  Date         | Calendar System |
