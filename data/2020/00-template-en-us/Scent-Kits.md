@@ -23,7 +23,11 @@ So far, these are the kinds of things we have done for our different projects:
 * Describe a full multi-sensory experience.
 
 ### Scent-First
-For multisensory collaborations, we work on the scent part of the experience first, and use that to inform the rest of the experience, including audio-visual content.
+For multisensory collaborations, we work on the scent part of the experience first, and use that to inform the rest of the experience, including audio-visual content. Institute for Art & Olfaction (IAO) Founder Saskia Wilson-Brown gave us this advice early on & it continuously helps to keep our projects organized, grounded, sustainable, simplified, and prevents much of the 'run-away technology' effect that happens when technologists get excited about visual & auditory content. It works, which is why we are making this process open source.
+
+We hope you will try it, acknowledge your influences, and contribute back.
+
+p.s. This project is also sneaky in that we are putting this on GitHub in a creative context with many non-programmers as a continued way of teaching about version control and the mechanics of collaboration. We will also have a website, but the code for that website will live in this repository, so you will get some free tech that will eventually render or be 'interoperable' with social VR experiences & let you make all the multi-sensory metaverses you could ever want. We hope this helps you share your voice & creations with us! So many VR & scent art projects are restricted because of cost, and we want to offer something more accessible.
 
 ### Reduced-scope
 We also reduce the scope of our premises. Multisensory experiences are more overwhelming to create, as well as to experience & share. 
