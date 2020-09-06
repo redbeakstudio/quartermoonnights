@@ -61,3 +61,4 @@ This is a template for communicating a multi-sensory art club project for sharin
 * [Lunar Development](Lunar-Development.md)
 * [Scent Kits](Scent-Kits.md)
 * [Scheduling](Scheduling.md)
+* [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y191OTc1YnBmM25ubDFka3MxdWZxaHVnbzltNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
