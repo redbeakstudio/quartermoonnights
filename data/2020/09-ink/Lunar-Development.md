@@ -1,5 +1,7 @@
 # Lunar Development
 by Chacha Sikes
+Created: 9/6/2020
+Updated: 9/6/2020
 
 We are doing an experimental "Lunar Development Cycle" for our Quarter Moon Night projects.
 So far, we like it & are continuning with it.
@@ -74,7 +76,6 @@ We also include moon names, seasonal holidays and other calendar events. Many ho
 
 ### Google Calendar & .ics
 At the beginning of each cycle, we make a sharable calendar with the dates & also add any special holidays from anyone participating. We can make an .ics file too, if that's helpful.
-
 
 ## Lunar Calendar Restoration
 For this project, we are bringing the concept of energetic time management to a creative production cycle, and exploring how that informs sustainable, inclusive creative tech & community building. We are interested in how this harmonizes with our natural ups & downs.
