@@ -26,6 +26,7 @@ Currently, for each month we have:
 * Monthly itinerary of events related to starting, developing and releasing projects.
 
 Quarter Moon Nights is a project curated and developed by [Redbeak Studio](https://redbeakstudio.com).
+
 Many thanks to the [Institute for Art & Olfaction](https://artandolfaction.com) for scent training, mentorship and giving us some frameworks to play and develop our multisensory approach.
 
-If you are interested in "Olfactory Technologies", we have a new group, sprung up in the summer of 2020, called [Aroma Discord](https://redbeakstudio.com/posts/aroma-discord#intro), where you can meet other cross-disciplinary artists, researchers and technologists interested in exploring how we work in multisensory mediums. We are starting to grow our awareness of haptics, taste & flavors, touch, kinesthetics & welcome anyone interested in playing with that - as well as spatialized audio and virtual immersive art. We plan to have some sort of event in late 2021 & hopefully this project can help build community as we go.
+If you are interested in "Olfactory Technologies", we have a new group, sprung up in the summer of 2020, called [Aroma Discord](https://redbeakstudio.com/posts/aroma-discord#intro), where you can meet other cross-disciplinary artists, researchers and technologists interested in exploring how we work in multisensory mediums. We are starting to grow our awareness of haptics, taste & flavors, touch, kinesthetics & welcome anyone interested in playing with that — as well as spatialized audio and virtual immersive art. We plan to have some sort of event in late 2021 & hopefully this project can help build community as we go.
