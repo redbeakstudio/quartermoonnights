@@ -34,7 +34,7 @@ Waning Moon (Last Quarter)
 * Which planets are bright today: https://theskylive.com/#brightest_planets
 * Time Passages: https://apps.apple.com/us/app/timepassages/id488946918 - easy run down of solar system clocks.
 * [@TODO find the link to the website that shows when different astronomical events will happen.]
-* There is a Google Calendar for Lunar phases.https://calendar.google.com/calendar/embed?src=ht3jlfaac5lfd6263ulfh4tql8%40group.calendar.google.com
+* There is a Google Calendar for Lunar phases.https://calendar.google.com/calendar/embed?src=c_naurh9h7r1a8ru7gpnrb236ebc%40group.calendar.google.com&ctz=America%2FLos_Angeles
 * Moon calendars: there are many artists offering beautiful lunar wall calendars each year, around the fall.
 
 ## Scheduling Creativity
