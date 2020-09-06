@@ -4,16 +4,6 @@ phase: "Virgo"
 start_date: "8/23/2020"
 end_date: "9/22/2020"
 calendar_system: "Western Zodiac"
-location: '['"Los Angeles (Tongva Land), USA, Turtle Island", "", ""]'
-lat_lon: '['"34.0522° N, 118.2437° W", "", ""]'
-place: '['"Los Angeles River Watershed", "", ""]'
-creator: '['"Chacha Sikes", "", ""]'
-author: '['"Chacha Sikes", "", ""]'
-hashtag: "#quartermoonnights"
-instagram: '['"@redbeakstudio", "", ""]'
-language: "en-us"
-network: "Storybox"
-timezone: '['"GMT-7", "", ""]'
 senses: "scent,sight,touch"
 portal: "https://storybox.redbeakstudio.com/guid"
 network: "Storybox"
