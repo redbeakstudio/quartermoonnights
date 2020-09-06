@@ -38,9 +38,13 @@ By the end of the month, we have a more realistic scope & more gem-like project 
 ### Lots of non-precious projects
 For visual art, there are projects like Inktober, or Urban Sketching. These social movements usually focus on prompts, and have a regular time basis that allows artists to sync up & learn from each other. Artists enjoy making a lot of non-precious work, as part of honing our craft. Similarly, improv groups create tons of material & this is how communication & story build up.
 
-We are combining this idea & also applying it to VR development. VR has been so resource intensive & inaccessible that it's difficult to 'make sketches' and improvise in a playful environment. This is what we are working to cultivate with this project. So far, it seems to be working - we started as people who knew nothing about VR or design and after a couple of years, are more able to understand a creative process that marries sensory data with virtual experience design.
+At the IAO, one awesome event (which has stopped during the pandemic, but will hopefully come back) is their monthly "perfume design challenges" led by Minetta Rogers, where our formulas go into an open source formula database.
+
+We are combining these idea & also applying them to VR development. VR has been so resource intensive & inaccessible that it's difficult to 'make sketches' and improvise in a playful environment. This is what we are working to cultivate with this project. So far, it seems to be working - we started as people who knew nothing about VR or design and after a couple of years, are more able to understand a creative process that marries sensory data with virtual experience design.
 
 It also seems like technology artists can benefit from working in multidisciplinary environments along side writers, perfumers, musicians and other artists. That kind of community is difficult to find outside of university programs and innovation labs, so this project is about building out a structure & communication system to enable a culture of collaboration & art-making.
+
+A month long prompt allows us to make scavenger hunts, be inspired, work in small teams for a short period of time.
 
 ### Scent Interfaces
 
