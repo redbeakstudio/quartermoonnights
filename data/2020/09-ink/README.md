@@ -25,6 +25,7 @@ rating: "PG-13"
 version: "v0.0.1"
 github: "https://github.com/redbeakstudio/quartermoonnights"
 ---
+
 # Quarter Moon Nights: Month Name 2020
 This is a template for communicating a multi-sensory art club project for sharing & participation in Quarter Moon Nights.
 

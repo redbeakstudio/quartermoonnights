@@ -24,6 +24,7 @@ rating: "PG-13"
 version: "v0.0.1"
 github: "https://github.com/redbeakstudio/quartermoonnights"
 ---
+
 # Quarter Moon Nights: August 2020
 
 ## Dates
