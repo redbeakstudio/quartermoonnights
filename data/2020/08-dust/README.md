@@ -53,3 +53,8 @@ github: https://github.com/redbeakstudio/quartermoonnights
 **Dust Disco**
 
 * [Brief](Brief.md)
+
+## Resources
+* [Lunar Development](Lunar-Development.md)
+* [Scent Kits](Scent-Kits.md)
+* [Scheduling](Scheduling.md)

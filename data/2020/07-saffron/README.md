@@ -54,3 +54,8 @@ github: "https://github.com/redbeakstudio/quartermoonnights"
 **Saffron Dance Party**
 
 * [Brief](Brief.md)
+
+## Resources
+* [Lunar Development](Lunar-Development.md)
+* [Scent Kits](Scent-Kits.md)
+* [Scheduling](Scheduling.md)
