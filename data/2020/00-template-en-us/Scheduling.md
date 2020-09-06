@@ -44,4 +44,4 @@ However, if people have friendly personal relationships, sometimes a lot of dige
 We also include moon names, seasonal holidays and other calendar events. Many holidays were originally tied to lunar or agricultural calendars & have rich stories. Holidays, calendar systems and reconnecting with heritage can inform our creative work.
 
 ### Google Calendar & .ics
-At the beginning of each cycle, we make a sharable calendar with the dates & also add any special holidays from anyone participating. We can make an .ics file too, if that's helpful.
+At the beginning of each cycle, we make or update a sharable calendar with the dates & also add any special holidays from anyone participating. We can make an .ics file too, if that's helpful.
