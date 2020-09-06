@@ -9,6 +9,7 @@ lat_lon: "34.0522° N, 118.2437° W"
 place: "Los Angeles River Watershed"
 creator: "Chacha Sikes"
 author: "Chacha Sikes"
+collaborators: "TBD"
 hashtag: "#quartermoonnights"
 instagram: "@redbeakstudio"
 language: "en-us"
@@ -22,7 +23,7 @@ api: "https://storybox.redbeakstudio.com/guid/json"
 comfort_level: "Comfortable"
 rating: "PG-13"
 version: "v0.0.1"
-github: https://github.com/redbeakstudio/quartermoonnights
+github: "https://github.com/redbeakstudio/quartermoonnights"
 ---
 # Quarter Moon Nights: Au 2020
 
