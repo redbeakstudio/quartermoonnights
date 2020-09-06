@@ -7,9 +7,8 @@ This repository contains:
 
 The [templates](data/2020/00-template-en-us) explain what we are doing.
 
-## Useful pages
 * [Prompts 2020 & 2021](data/2020/Prompts.md)
-<!-- * [Resources](data/2020/Resources.md)
-<!-- * [Process](data/2020/Process.md)
-<!-- * [About](data/2020/About.md) -->
+* [Lunar Development](data/2020/00-template-en-us/Lunar-Development.md)
+* [Scent Kits](data/2020/00-template-en-us/Scent-Kits.md)
+* [Scheduling](data/2020/00-template-en-us/Scheduling.md)
 * [Contact](data/2020/Contact.md)
