@@ -41,7 +41,7 @@ We don’t schedule any meetings for the new or full moons because those are res
 However, if people have friendly personal relationships, sometimes a lot of digestion or collaboration can happen at those times.
 
 ### Full moon names, Holidays & Calendar systems
-We also include moon names, seasonal holidays and other calendar events. Many holidays were originally tied to lunar or agricultural calendars & have rich stories. Holidays, calendar systems and reconnect with heritage for informing our creative work.
+We also include moon names, seasonal holidays and other calendar events. Many holidays were originally tied to lunar or agricultural calendars & have rich stories. Holidays, calendar systems and reconnecting with heritage can inform our creative work.
 
 ### Google Calendar & .ics
 At the beginning of each cycle, we make a sharable calendar with the dates & also add any special holidays from anyone participating. We can make an .ics file too, if that's helpful.
