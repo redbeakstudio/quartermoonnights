@@ -22,7 +22,7 @@ api: "https://storybox.redbeakstudio.com/guid/json"
 comfort_level: "Comfortable. Probably Glitchy."
 rating: "PG-13"
 version: "v0.0.1"
-github: https://github.com/redbeakstudio/quartermoonnights
+github: "https://github.com/redbeakstudio/quartermoonnights"
 ---
 # Quarter Moon Nights: August 2020
 
