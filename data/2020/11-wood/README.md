@@ -30,19 +30,22 @@ github: "https://github.com/redbeakstudio/quartermoonnights"
 | Name                | Phase           |  Date         | Calendar System |
 | :----------         | :-------------: | -----------:  | --------------: |
 | Moon Phase          | New Moon        | 12/14/2020    | Lunar           |
-| Capricorn (start)   | House           | 12/22/2020    | Western Zodiac  |
-| December            | Month           | 12/22/2020    | Gregorian       |
 | Winter              | Winter Solstice | 12/21/2020    | Solar           |
 | Moon Phase          | Waxing Moon     | 12/21/2020    | Lunar           |
+| Capricorn (start)   | House           | 12/22/2020    | Western Zodiac  |
+| December            | Month           | 12/22/2020    | Gregorian       |
 | Moon Phase          | Full Moon       | 12/29/2020    | Lunar           |
-| Cold Moon           | Full Moon       | 12/29/2020    | Celtic (*)      |
+| Cold Moon           | Full Moon       | 12/29/2020    | Celtic          |
 | Moon Phase          | Waning Moon     | 1/6/2021      | Lunar           |
 | Moon Phase          | New Moon        | 1/12/2021     | Lunar           |
+| Capricorn (end)     | House           | 1/19/2021     | Western Zodiac  |
 | Aquarius (start)    | House           | 1/20/2021     | Western Zodiac  |
 
-* Personal connection
-
 ## Scheduling
+
+### Phase Shifts
+The lunar calendar & various zodiacs do not always line up perfectly, so our projects usually span 5-6 weeks total from warm up to cool down.
+
 ### New Moon
 Warm up, prepare, create an intention for the project. Group email introductions for anyone participating.
 
@@ -53,11 +56,24 @@ Know what we are making that month, Art nights around time of Quarter Moon, sett
 Being immersed in the project idea, excitement, instagram posts, exchanges, can have more art nights if there is momentum.
 
 ### Quarter Moon, Waning
-Starting to close down, wrap up, finish. Art night to work on follow through. Before the new moon: show & tells: smell shares, reviews, play-testing, acknowledge accomplishments & failures, letting go!
+Starting to close down, wrap up, finish.
+Art nights to work on follow through.
+Show & tells, smell shares, reviews, play-testing.
+Lessons learned, acknowledgements, accomplishments.
+Letting go!
 
 ### No meetings
 We don’t schedule any meetings for the new or full moons because those are reserved for more personal creative time.
-However, if people have friendly personal relationships, sometimes a lot of digestion or collaboration can happen.
+However, if people have friendly personal relationships, sometimes a lot of digestion or collaboration can happen at those times.
+
+### Meetings
+We do a few different meetings each month, but this depends on who participates and what we decide to do. Our project is totally voluntary & un-funded. We adapt based on our guest artists availability, energy and constraints.
+
+### Full moon names, Holidays & Calendar systems
+We also include moon names, seasonal holidays and other calendar events. Many holidays were originally tied to lunar or agricultural calendars & have rich stories. Holidays, calendar systems and reconnect with heritage for informing our creative work.
+
+### Google Calendar & ICS
+At the beginning of each cycle, we update a sharable calendar with the dates & also add any special holidays from anyone participating.
 
 ## Prompt
 **Resin**
