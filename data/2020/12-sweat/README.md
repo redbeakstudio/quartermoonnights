@@ -27,19 +27,17 @@ github: "https://github.com/redbeakstudio/quartermoonnights"
 ---
 # Quarter Moon Nights: Capricorn 2020 | Sweat
 ## Topics: Sweat, Running, Animation
-| Name                | Phase           |  Date         | Calendar System |
-| :----------         | :-------------: | -----------:  | --------------: |
-| Moon Phase          | New Moon        | 12/14/2020    | Lunar           |
-| Winter              | Winter Solstice | 12/21/2020    | Solar           |
-| Moon Phase          | Waxing Moon     | 12/21/2020    | Lunar           |
-| Capricorn (start)   | House           | 12/22/2020    | Western Zodiac  |
-| December            | Month           | 12/22/2020    | Gregorian       |
-| Moon Phase          | Full Moon       | 12/29/2020    | Lunar           |
-| Cold Moon           | Full Moon       | 12/29/2020    | Celtic          |
-| Moon Phase          | Waning Moon     | 1/6/2021      | Lunar           |
-| Moon Phase          | New Moon        | 1/12/2021     | Lunar           |
-| Capricorn (end)     | House           | 1/19/2021     | Western Zodiac  |
-| Aquarius (start)    | House           | 1/20/2021     | Western Zodiac  |
+| Name                 | Phase           |  Date         | Calendar System |
+| :----------          | :-------------: | -----------:  | --------------: |
+| Capricorn (start)    | House           | 12/22/2020    | Western Zodiac  |
+| Moon Phase           | Full Moon       | 12/29/2020    | Lunar           |
+| Quiet Moon           | Full Moon       | 12/29/2020    | Celtic (*)      |
+| January              | Month           | 1/1/2021      | Gregorian       |
+| 2021                 | Year            | 1/1/2021      | Gregorian       |
+| Moon Phase           | Waning Moon     | 1/6/2021      | Lunar           |
+| Moon Phase           | New Moon        | 1/12/2021     | Lunar           |
+| Moon Phase           | Waxing Moon     | 1/20/2021     | Lunar           |
+| Aquarius (end)       | House           | 1/20/2021     | Western Zodiac  |
 
 ## Prompt
 **Sweat**

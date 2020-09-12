@@ -27,18 +27,18 @@ github: "https://github.com/redbeakstudio/quartermoonnights"
 ---
 # Quarter Moon Nights: Capricorn 2020 | Resin
 ## Topics: Resin, Wood, Pano-sketching, Foraging
-| Name                | Phase           |  Date         | Calendar System |
-| :----------         | :-------------: | -----------:  | --------------: |
-| Moon Phase          | New Moon        | 11/14/2020    | Lunar           |
-| Moon Phase          | Waxing Moon     | 11/21/2020    | Lunar           |
-| Sagitarrius (start) | House           | 11/22/2020    | Western Zodiac  |
-| November            | Month           | 11/22/2020    | Gregorian       |
-| Moon Phase          | Full Moon       | 11/30/2020    | Lunar           |
-| Dark Moon           | Full Moon       | 11/30/2020    | Celtic          |
-| Moon Phase          | Waning Moon     | 12/7/2020     | Lunar           |
-| Moon Phase          | New Moon        | 12/14/2020    | Lunar           |
-| Sagitarrius (end)   | House           | 12/21/2020    | Western Zodiac  |
-
+| Name                 | Phase           |  Date         | Calendar System |
+| :----------          | :-------------: | -----------:  | --------------: |
+| Moon Phase           | Waxing Moon     | 11/21/2020    | Lunar           |
+| Sagitarrius (start)  | House           | 11/22/2020    | Western Zodiac  |
+| Moon Phase           | Full Moon       | 11/30/2020    | Lunar           |
+| Dark Moon            | Full Moon       | 11/30/2020    | Celtic (*)      |
+| December             | Month           | 12/1/2020     | Gregorian       |
+| Moon Phase           | Waning Moon     | 12/7/2020     | Lunar           |
+| Moon Phase           | New Moon        | 12/14/2020    | Lunar           |
+| Moon Phase           | Waxing Moon     | 12/21/2020    | Lunar           |
+| Solstice             | Winter          | 12/21/2020    | Solar           |
+| Capricorn (end)      | House           | 12/22/2020    | Western Zodiac  |
 
 ## Prompt
 **Resin**

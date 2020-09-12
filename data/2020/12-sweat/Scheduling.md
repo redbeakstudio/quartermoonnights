@@ -2,14 +2,17 @@
 Important Dates & Phases
 
 ## Dates
-| Name             | Phase           |  Date         | Calendar System |
-| :----------      | :-------------: | -----------:  | --------------: |
-| Month Name       | Month           | 6/21/2020     | Gregorian       |
-| Moon Phase       | Waxing Moon     | 6/28/2020     | Lunar           |
-| Moon Phase       | Full Moon       | 7/4/2020      | Lunar           |
-| Moon of Horses   | Full Moon       | 7/5/2020      | Celtic (*)      |
-| Moon Phase       | Waning Moon     | 7/12/2020     | Lunar           |
-| Moon Phase       | New Moon        | 7/20/2020     | Lunar           |
+| Name                 | Phase           |  Date         | Calendar System |
+| :----------          | :-------------: | -----------:  | --------------: |
+| Capricorn (start)    | House           | 12/22/2020    | Western Zodiac  |
+| Moon Phase           | Full Moon       | 12/29/2020    | Lunar           |
+| Quiet Moon           | Full Moon       | 12/29/2020    | Celtic (*)      |
+| January              | Month           | 1/1/2021      | Gregorian       |
+| 2021                 | Year            | 1/1/2021      | Gregorian       |
+| Moon Phase           | Waning Moon     | 1/6/2021      | Lunar           |
+| Moon Phase           | New Moon        | 1/12/2021     | Lunar           |
+| Moon Phase           | Waxing Moon     | 1/20/2021     | Lunar           |
+| Aquarius (end)       | House           | 1/20/2021     | Western Zodiac  |
 
 ## Scheduling
 This is how the moon phases tend to work with our projects.

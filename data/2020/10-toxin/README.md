@@ -29,14 +29,18 @@ github: "https://github.com/redbeakstudio/quartermoonnights"
 This is a template for communicating a multi-sensory art club project for sharing & participation in Quarter Moon Nights.
 
 ## Dates
-| Name             | Phase           |  Date         | Calendar System |
-| :----------      | :-------------: | -----------:  | --------------: |
-| Month Name       | Month           | 6/21/2020     | Gregorian       |
-| Moon Phase       | Waxing Moon     | 6/28/2020     | Lunar           |
-| Moon Phase       | Full Moon       | 7/4/2020      | Lunar           |
-| Moon of Horses   | Full Moon       | 7/5/2020      | Celtic (*)      |
-| Moon Phase       | Waning Moon     | 7/12/2020     | Lunar           |
-| Moon Phase       | New Moon        | 7/20/2020     | Lunar           |
+| Name                 | Phase           |  Date         | Calendar System |
+| :----------          | :-------------: | -----------:  | --------------: |
+| Scorpio (start)      | House           | 10/23/2020    | Western Zodiac  |
+| Moon Phase           | Waxing Moon     | 10/23/2020    | Lunar           |
+| Moon Phase           | Full Moon       | 10/31/2020    | Lunar           |
+| Harvest Moon         | Full Moon       | 10/31/2020    | Celtic (*)      |
+| Fall-Winter Midpoint | Full Moon       | 10/31/2020    | Solar           |
+| November             | Month           | 11/1/2020     | Gregorian       |
+| Moon Phase           | Waning Moon     | 11/8/2020     | Lunar           |
+| Moon Phase           | New Moon        | 11/14/2020    | Lunar           |
+| Moon Phase           | Waxing Moon     | 11/21/2020    | Lunar           |
+| Sagitarrius (end)    | House           | 11/22/2020    | Western Zodiac  |
 
 * Personal connection (example)
 
